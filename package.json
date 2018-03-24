@@ -1,0 +1,20 @@
+{
+  "name": "graphbox",
+  "version": "0.0.1",
+  "description": "a clear graphql server",
+  "main": "src/bin/graphbox.js",
+  "repository": "git@github.com:udtrokia/graphbox.git",
+  "author": "mercurio <udtrokia@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^9.6.0"
+  },
+  "dependencies": {
+    "@types/content-type": "^1.1.2",
+    "@types/is-stream": "^1.1.0",
+    "@types/raw-body": "^2.3.0",
+    "content-type": "^1.0.4",
+    "is-stream": "^1.1.0",
+    "raw-body": "^2.3.2"
+  }
+}
